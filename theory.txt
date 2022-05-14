@@ -1,0 +1,14 @@
+2007 by google
+next gen programming language
+
+compiled -> output file is created as .exe
+
+
+lexer
+
+
+
+go mod init some name here
+
+
+go.dev a useful website for go development

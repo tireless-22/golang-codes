@@ -1,0 +1,15 @@
+=> go to golang.ord to install the go
+
+=>before start we have to use => go mod init
+-> it is just like npm init in js
+-> it will give a go.mod file
+=> install the extenisions related to golang
+
+
+
+
+
+
+
+
+

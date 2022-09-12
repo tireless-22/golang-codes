@@ -1,0 +1,9 @@
+=> Go is the best language that is designed to utilize the power the cloud infrastructure
+=> go is the present c lang 
+=> Golang is a compiled
+=> Compiled means it generates a .exe file just like c and c++
+=> these executabls are differect for os
+=> while java generates a binary file,so we can run that anywhere if the machine has JVM
+
+=> No try catch
+=> lexer does a lot of things

@@ -60,19 +60,4 @@ func main() {
 
 	fmt.Println(loginToken)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

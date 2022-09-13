@@ -5,7 +5,7 @@ import "fmt"
 // Types
 // case insensitive almost
 // variable name should be known in advance
-// everything is a vailable
+// everything is a variable
 
 
 
